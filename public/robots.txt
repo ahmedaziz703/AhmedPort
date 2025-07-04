@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmed-port.vercel.app/sitemap.xml
